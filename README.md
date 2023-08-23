@@ -1,5 +1,4 @@
 # ProductApi
-Atividade 2 
 Desenvolva uma API RESTful utilizando Minimal API do .NET Core que permita o cadastro, a consulta, a atualização e a exclusão de produtos. Cada produto deve ter as seguintes propriedades:
 
 Id: inteiro;
